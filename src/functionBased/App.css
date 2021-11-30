@@ -21,6 +21,11 @@ body {
   margin: 0 auto;
 }
 
+.active-link {
+  color: orangered;
+  text-decoration: underline;
+}
+
 .inner {
   width: 100%;
   padding: 8rem 10px 4rem;
